@@ -8,8 +8,9 @@ from PIL import Image, ImageTk
 import tkinter as tk
 from tkinter import ttk
 
-face_classifier = cv2.CascadeClassifier(r'C:\Users\timaz\Desktop\Face emotional detection\haarcascade_frontalface_default.xml')
-model = load_model(r'C:\Users\timaz\Desktop\Face emotional detection\Emotion_little_vgg.h5')
+
+face_classifier = cv2.CascadeClassifier(r'C:\Users\timaz\Desktop\MyDiplomaProject\myDiplomaProject\haarcascade_frontalface_default.xml')
+model = load_model(r'C:\Users\timaz\Desktop\MyDiplomaProject\myDiplomaProject\Emotion_little_vgg.h5')
 
 class_labels = ['Angry', 'Happy', 'Sad', 'Neutral', 'Surprise']
 

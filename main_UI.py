@@ -9,7 +9,7 @@
 
 
 from PyQt5 import QtCore, QtGui, QtWidgets
-import test
+import recognition
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
@@ -134,7 +134,7 @@ class Ui_MainWindow(object):
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
 
     def btnstate(self):
-           test.recognizeEmotion()
+           recognition.recognizeEmotion()
     def exit(self):
         sys.exit(app.exec_())
 
