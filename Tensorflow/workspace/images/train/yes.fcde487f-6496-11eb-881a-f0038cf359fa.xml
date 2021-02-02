@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>yes.fcde487f-6496-11eb-881a-f0038cf359fa.jpg</filename>
+	<path>C:\Users\timaz\Desktop\MyDiplomaProject\Tensorflow\workspace\images\collectedimages\yes.fcde487f-6496-11eb-881a-f0038cf359fa.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>207</ymin>
+			<xmax>428</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+</annotation>

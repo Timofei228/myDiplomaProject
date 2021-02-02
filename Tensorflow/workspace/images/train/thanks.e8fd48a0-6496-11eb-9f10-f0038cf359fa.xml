@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>thanks.e8fd48a0-6496-11eb-9f10-f0038cf359fa.jpg</filename>
+	<path>C:\Users\timaz\Desktop\MyDiplomaProject\Tensorflow\workspace\images\collectedimages\thanks.e8fd48a0-6496-11eb-9f10-f0038cf359fa.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thanks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>192</ymin>
+			<xmax>502</xmax>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+</annotation>

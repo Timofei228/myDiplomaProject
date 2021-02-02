@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>no.145c5bb2-6497-11eb-9b20-f0038cf359fa.jpg</filename>
+	<path>C:\Users\timaz\Desktop\MyDiplomaProject\Tensorflow\workspace\images\collectedimages\no.145c5bb2-6497-11eb-9b20-f0038cf359fa.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>132</ymin>
+			<xmax>257</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>
